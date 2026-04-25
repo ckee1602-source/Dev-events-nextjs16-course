@@ -9,7 +9,7 @@ interface Props {
     date:string;
     time:string;
     
-
+//
 
 }
 const EventCard = ({title,image,slug,location,date,time}:Props) => {

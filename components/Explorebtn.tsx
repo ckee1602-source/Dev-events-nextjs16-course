@@ -9,9 +9,12 @@ const Explorebtn = () => {
            Explore Events
            <Image src="/icons/arrow-down.svg" alt="arrow-down" width={24} height={24}/>
       </a>  
-   
+      
     </button>
   )
 }
 
+
+
+ 
 export default Explorebtn;
